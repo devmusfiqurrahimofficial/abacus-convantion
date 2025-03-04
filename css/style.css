@@ -47,3 +47,82 @@ margin: 10px;
  }
 
  /* moment section end */
+
+ 
+ .prc-tk{
+    color: #1d1c2c;
+    font-size: 25px; 
+    padding-bottom: 20px;
+ }
+ .prc-name{
+    color: #1d1c2c;
+    font-size: 25px; 
+    padding-bottom: 10px; 
+ }
+ .prc-ptag{
+    color: gray;
+    line-height: 25px;
+ }
+ .mt{
+    width: 100px;
+    width: 300px;
+ }
+ .mt:hover{
+   transform: scale(1.03);
+   transition: 0.2s;
+ }
+ .button-design{
+text-decoration: none;
+font-size: 15px;
+font-weight: 700;
+border: 1px solid black;
+padding: 14px 74px;
+margin-top: 20px;
+background-color: rgb(247, 235, 244);
+border-radius: 24px;
+display: inline-block;
+margin-top: 10px;
+ }
+
+ .button-design:hover{
+    text-decoration: underline;
+    transform: scale(1.009);
+    transition: 0.3s;
+
+ }
+ .different-pricing{
+color: #fff;
+padding: 20px;
+border-radius: 26px;
+position: relative;
+
+ }
+ .hot-box{
+background-color: #FF4E4E;
+width: 45px;
+border-radius: 20px;
+text-align: center;
+position: absolute;
+top: -10px;
+right: 12px;
+
+ }
+ .different-pricing h3{
+    color: #fff;
+ }
+ .different-pricing h4{
+    color: #fff;
+ }
+ .different-pricing p{
+    color: #fff;
+ }
+ .different-pricing a{
+    background: white;
+ 
+ }
+ .different-pricing i{
+   color: white !important;
+ 
+ }
+
+ /* pricing end */
