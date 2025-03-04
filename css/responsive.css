@@ -59,4 +59,27 @@
     font-size: 6px;
     margin-bottom: 0px;
 }
+.testimonials-box img{
+    margin-top: -40px;
+}
+.testimonials-box h5{
+    margin-top: -20px;
+}
+.testimonials-box:hover {
+    height: 372px;
+}
+.testimonials-box {
+    height: 325px;}
+}
+
+@media screen and (max-width:384px){
+    .testimonials-box img{
+        margin-top: -40px;
+    }
+    .testimonials-box h5{
+        margin-top: -20px;
+    }
+    .testimonials-box:hover {
+        height: 394px;
+    }
 }

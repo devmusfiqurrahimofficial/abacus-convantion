@@ -124,5 +124,29 @@ right: 12px;
    color: white !important;
  
  }
-
+ .testimonials-box{
+    text-align: center;
+    height:353px;
+    width: 373px;
+    overflow:hidden;
+    transition: .5s;
+    
+     }
+     .testimonials-box:hover{height: 409px;
+     }
+     .testimonials-box:hover img{
+       transform: scale(1.1);
+       transition: .5s;
+    
+     }
+     .social-item{margin-top: 40px;}
+     .social-item a{
+       text-decoration: none;
+       color: #f1f8ff;
+       background-color: #fea116;
+       border-radius: 15px 15px 0px 0px;
+       padding: 10px;
+       font-weight: 500;
+       font-size: 15px;
+     }
  /* pricing end */
