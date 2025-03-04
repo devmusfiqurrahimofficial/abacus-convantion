@@ -28,4 +28,22 @@ h1,h2,h3,h4,h5,h6,p,a{
      margin-top: 100px;
   }
 
-  /* carosel end */
+  /* slider end */
+
+  .momnt-h2{
+    font-size: 38px;
+    font-weight: 700;
+line-height: 60px;
+color: #0A0826;
+ }
+
+ .momnt-p{
+    line-height: 30px;
+    font-weight: 500;
+    color: #0A0826;
+ }
+ .icon-arrow{
+margin: 10px;
+ }
+
+ /* moment section end */
