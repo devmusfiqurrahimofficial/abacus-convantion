@@ -1,0 +1,59 @@
+@media screen and (max-width:992px){
+    .carousel-item h1{
+        font-size: 15px;
+        margin-top: 10px !important;
+    }
+    .carousel-item p{
+        font-size: 10px;
+    }
+    .carousel-item button{
+        font-size: 15px;
+        width: 114px;
+        font-weight: 500;
+        height: 30px;
+    }
+}
+@media screen and (max-width:768px){  
+    .carousel-item h1{
+        font-size: 9px;
+    }
+    .carousel-item p{
+        font-size: 7px;
+        margin-bottom: 5px;
+    }
+    .carousel-caption{
+        margin-bottom: -10px;
+    }
+    .website-margin-top{
+        margin-top:20px;
+   
+     }
+}
+@media screen and (max-width:576px){ 
+    .carousel-item button{
+        font-size: 12px;
+        width: 90px;
+        font-weight: 500;
+        height: 25px;
+        
+    }
+    .carousel-caption{
+        margin-bottom: -10px;
+    }
+}
+@media screen and (max-width:417px){ 
+
+.navbar-brand{
+    font-size: 16px !important;
+}
+.carousel-item button{
+    font-size: 10px;
+    width: 80px;
+    font-weight: 500;
+    height: 20px;
+}
+.carousel-item p{
+    font-size: 6px;
+    margin-bottom: 0px;
+}
+}

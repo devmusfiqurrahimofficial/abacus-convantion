@@ -8,3 +8,24 @@ h1,h2,h3,h4,h5,h6,p,a{
 .nav-item{
     padding-left: 26px;
 }
+
+/* nav end */
+
+.carousel-indicators{
+    margin-bottom: 0rem;}
+ .website-btn1{
+     border: none;
+     width: 168px;
+     background: #fff;
+     color: #3F87F5;
+     font-weight: 700;
+     font-size: 16px;
+     height: 44px;
+     border-radius: 7px;
+  }
+ 
+  .website-margin-top{
+     margin-top: 100px;
+  }
+
+  /* carosel end */
